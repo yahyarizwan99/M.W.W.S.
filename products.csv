@@ -1,0 +1,40 @@
+id,name,category,price_pkr,unit,emoji,stock,image_url
+1,Surf Excel Detergent 1kg,Laundry,650,pack,🧺,40,https://i.pinimg.com/1200x/48/84/e0/4884e0859b8282989e0643e7a472cd4c.jpg
+2,Ariel Matic Powder 1kg,Laundry,720,pack,🧺,35,https://i.pinimg.com/1200x/86/44/a6/8644a64a22ef41f733cfa80d5e1eb70d.jpg
+3,Bonus Tristar Detergent 1kg,Laundry,380,pack,🧺,50,https://i.pinimg.com/1200x/94/38/0d/94380d96d858a515550a7092c5d6cad8.jpg
+4,Comfort Fabric Softener 1L,Laundry,560,bottle,🌸,30,https://i.pinimg.com/1200x/84/17/16/841716bb1d494a0a89c21eb2315f78a6.jpg
+5,Clorox Bleach 1L,Laundry,340,bottle,🧴,25,https://i.pinimg.com/1200x/43/33/87/4333875b74cba4f7e15ee95d1a5e50fb.jpg
+6,Laundry Basket (Plastic),Laundry,850,piece,🧺,15,https://i.pinimg.com/1200x/b7/e4/6e/b7e46eea0887f0e3b7c911434f4b5e83.jpg
+7,Cloth Pegs (24 pcs),Laundry,250,pack,📎,40,https://i.pinimg.com/1200x/9c/6f/7a/9c6f7a6e08f716215ab5c1584d5e5e36.jpg
+8,Ironing Spray Starch,Laundry,450,bottle,💨,20,https://i.pinimg.com/1200x/4c/b0/96/4cb096112f210e1c02415fd2449c764b.jpg
+9,Men's Cotton Shalwar Kameez,Clothes,3200,suit,👔,12,https://i.pinimg.com/736x/b6/79/db/b679db9c7b1395b574e92c54ab4602a0.jpg
+10,Women's Lawn 3-Piece,Clothes,4500,suit,👗,10,https://i.pinimg.com/736x/ad/f4/fb/adf4fb58ed21eb77cd91adf0f9a11636.jpg
+11,Kids T-Shirt,Clothes,900,piece,👕,25,https://i.pinimg.com/736x/55/37/63/553763947c1415e0ed518e9147fa23e5.jpg
+12,Cotton Socks (3 pairs),Clothes,600,pack,🧦,30,https://i.pinimg.com/1200x/d5/42/73/d54273b7be60fad2aff392f048e3efbe.jpg
+13,Men's Vest (2 pcs),Clothes,700,pack,🎽,20,https://i.pinimg.com/1200x/f6/9e/05/f69e05c582d37f45c8094bc5315ed29e.jpg
+14,Winter Shawl,Clothes,2200,piece,🧣,8,https://i.pinimg.com/736x/1d/18/1f/1d181f6537a6e03e6ab289c1229bd59c.jpg
+15,Dishwashing Liquid 500ml,Household,320,bottle,🍽️,40,https://i.pinimg.com/736x/ba/fd/e9/bafde91abd4beffeab52d362cf080cb3.jpg
+16,Floor Cleaner 1L,Household,480,bottle,🧽,30,https://i.pinimg.com/736x/b2/ac/a9/b2aca9febd1c6a6112c4f24d92082b2b.jpg
+17,Toilet Cleaner 500ml,Household,390,bottle,🚽,30,https://i.pinimg.com/1200x/8e/6c/3e/8e6c3ec0746f14b3c85bd0229f088168.jpg
+18,Garbage Bags (30 pcs),Household,300,pack,🗑️,45,https://i.pinimg.com/736x/4f/29/66/4f29660335d8ea6b1a893b12c273256c.jpg
+19,Lifebuoy Soap (4 pcs),Personal Care,420,pack,🧼,40,https://i.pinimg.com/1200x/39/a0/32/39a0322d3c1e2792cf7d01dbf325672e.jpg
+20,Sunsilk Shampoo 360ml,Personal Care,780,bottle,🧴,25,
+21,Colgate Toothpaste 150g,Personal Care,350,tube,🪥,35,
+22,Tissue Box (Rose Petal),Personal Care,220,box,🤧,50,https://i.pinimg.com/736x/43/22/61/432261b5f2cfed7a22bc8592db75cc26.jpg
+23,Basmati Rice 5kg,Grocery,2100,bag,🍚,20,https://i.pinimg.com/1200x/5f/83/0d/5f830dca02dd0f8d8d4b5a88abfa3a5a.jpg
+24,Cooking Oil 1L,Grocery,560,bottle,🫒,30,https://i.pinimg.com/736x/d9/93/38/d993388a3064d6704a1f15bac2114bd1.jpg
+25,Tapal Danedar Tea 450g,Grocery,850,pack,🍵,30,https://i.pinimg.com/1200x/77/b7/21/77b7213ec4d7e113f038d06c6fe5227b.jpg
+26,Sugar 1kg,Grocery,160,pack,🧂,60,https://i.pinimg.com/1200x/69/8f/3c/698f3cc6fd2a6aa575a55d7fb07dee25.jpg
+27,Cushion Covers (Set of 5),Home Designing,1800,set,🛋️,20,https://i.pinimg.com/1200x/ae/2a/f6/ae2af65b6889da3fddbbd3df152834ed.jpg
+28,Blackout Curtains (2 panels),Home Designing,4200,pair,🪟,10,https://i.pinimg.com/1200x/9e/cc/ff/9eccff4bd7b64e7e7ac957164dad3af3.jpg
+29,Wooden Wall Clock,Home Designing,2500,piece,🕰️,12,https://i.pinimg.com/1200x/7a/67/3c/7a673c0dbd1631535b94955d35487b5d.jpg
+30,Ceramic Flower Vase,Home Designing,1500,piece,🏺,15,https://i.pinimg.com/736x/5f/7b/9b/5f7b9bd8e876fd8d5d3bade1577e40d2.jpg
+31,Artificial Indoor Plant,Home Designing,1900,piece,🪴,18,https://i.pinimg.com/736x/95/ed/df/95eddf906862fdfaf69600e6fa041f2b.jpg
+32,Printed Area Rug 5x7 ft,Home Designing,6500,piece,🟫,6,https://i.pinimg.com/1200x/a0/62/2f/a0622fc32fd7f7d4b58618c52cae1198.jpg
+33,Canvas Wall Art (3 pcs),Home Designing,3500,set,🖼️,10,https://i.pinimg.com/736x/60/b9/c5/60b9c5cc81e7472228b282d81c64c70a.jpg
+34,Table Lamp,Home Designing,2800,piece,💡,12,https://i.pinimg.com/736x/eb/7c/66/eb7c6661773e3e59054ed6b4860e1c6d.jpg
+35,LED Fairy Lights 10m,Home Designing,650,piece,✨,40,https://i.pinimg.com/736x/73/3f/d9/733fd96cf2032f1a0f7afdd50b9cff56.jpg
+36,Photo Frames (Set of 4),Home Designing,1200,set,🖼️,20,https://i.pinimg.com/736x/f5/d6/49/f5d6491c038e2a7955d89ee28afb4d68.jpg
+37,Scented Candles (3 pcs),Home Designing,950,set,🕯️,25,https://i.pinimg.com/736x/4a/06/d6/4a06d6795ab3ccb949e30bde56ba87b1.jpg
+38,Decorative Wall Mirror,Home Designing,5500,piece,🪞,8,https://i.pinimg.com/736x/e2/6f/13/e26f13e37bc5a3cadad922a9a8278fb6.jpg
+39,Gold Tree with Home Text & Butterflies,Home Designing,750,piece,🌳,10,https://i.pinimg.com/736x/5a/78/95/5a7895e39e34cae9929fbead326ecc81.jpg
